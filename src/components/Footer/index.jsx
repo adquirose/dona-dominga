@@ -15,8 +15,8 @@ function Footer() {
                         <h5><a style={{color:'inherit', textDecoration:'none'}} href='tel:+56968012940'>+56 9 6801 2940</a></h5>
                     </div>
                 </Col>
-                <Col className='d-flex flex-row justify-content-md-end justify-content-center align-items-center'>
-                    <img src={Logo}  style={{ height:'60px'}} alt="logo-tavacorp"/>
+                <Col className='d-flex flex-row justify-content-md-end justify-content-center align-items-center pt-3'>
+                    <img src={Logo}  style={{ height:'60px'}} alt="logo-dona-dominga"/>
                     {/* <div style={{width:'contain', border:'1px solid white', marginLeft:'10px', marginRight:'25px'}}>
                         <img src={LogoVistaLomas}  style={{width:'60px'}} alt="logo-vistalomas"/>
                     </div> */}
