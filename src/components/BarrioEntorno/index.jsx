@@ -44,7 +44,6 @@ function BarrioEntorno() {
                 <ShoppingBag/><span className='ps-2'>CENTROS COMERCIALES</span>
               </div>
               <List>
-                <li>CENTRO COMERCIAL ALTO VARAS</li>
                 <li>MALL PASEO ALERCE</li>
                 <li>CENTRO COMERCIAL DOÑA EMA</li>
                 <li>SUPERMERCADO</li>

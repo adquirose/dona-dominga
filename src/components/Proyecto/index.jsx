@@ -25,9 +25,9 @@ function ElCondominio(){
                         <p>
                             La parcelación cuenta con portón de acceso, agua de pozo, 
                             luz y posibilidad de fibra óptica. <br/>
-                            Además contamos con alianzas estratégicas que te ayudarán a hacer<br/> 
-                            tus caminos de acceso, movimiento de tierras, limpieza de terreno,  <br/>
-                            entrega de áridos, jardinería u cualquier otra tarea similar que <br/>
+                            Además contamos con alianzas estratégicas que te ayudarán a realizar 
+                            tus caminos de acceso, movimiento de tierras, limpieza de terreno,
+                            entrega de áridos, jardinería u cualquier otra tarea similar que
                             llegarás a necesitar para la construcción de su casa. 
 
                         </p>
@@ -57,7 +57,7 @@ function ElProyecto() {
                         Parcelación Doña Dominga es un proyecto donde los sueños toman forma. <br/>
                         Un lugar pensado para la familia que ofrece amplios espacios <br/>
                         en torno a la naturaleza. 
-                        Una propuesta estratégica para vivir de forma tranquila, <br/>
+                        Una propuesta estratégica para vivir de forma tranquila, 
                         pero siempre conectado con la ciudad.
                     </p>
                 </Col>

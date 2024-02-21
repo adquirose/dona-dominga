@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #4c4c4a;
+  --color-primary: #253732;
   --color-ws: #71a83c;
   --color-white:#FFFFFF;
   --color-black:#000000;
@@ -13,8 +13,9 @@ body {
   min-width: 320px;
   min-height: 100vh;
   color:var(--color-white);
-  font-family: 'Montserrat', sans-serif;;
+  font-family: "Josefin Sans", sans-serif;
 }
+
 .bg-black{
   color:var(--color-black);
 }
@@ -239,6 +240,11 @@ body {
   width:70px; 
   position:absolute;
   right:175px;
+}
+p, span, li, a, input{
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 @media (max-width: 420px) {
   #proyecto-container .image-proyecto-container{
