@@ -48,7 +48,7 @@ function ElProyecto() {
     <div id="proyecto" className='section'>
         <Container>
             <Row className='mt-3'>
-                <Col sm="12" md="6">
+                <Col sm="12" md="6" className='order-2 order-md-1' >
                     <div>
                         <h2>EL PROYECTO</h2>
                         <div className='subraya bg-white'/>
@@ -61,7 +61,7 @@ function ElProyecto() {
                         pero siempre conectado con la ciudad.
                     </p>
                 </Col>
-                <Col sm="12" md="6" className='d-none d-md-block'>
+                <Col sm="12" md="6" className='order-1 order-md-2'>
                     <div className='image-proyecto-container'>
                         <div style={{position:'absolute', zIndex:6, top:'20px', left:'0'}}>
                             {/* <h4 className='ps-3 mb-0'>+ Arquitectura</h4> */}

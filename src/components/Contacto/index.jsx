@@ -166,7 +166,7 @@ function Contacto() {
             </Row>
             <Row className="pt-5 pb-5">
                 <Col sm="12" md="6">
-                  <div className="d-flex ps-3">
+                  <div className="d-flex ps-3 pb-sm-3 pb-0">
                     <img src={Logo} style={{width:'200px', paddingRight:'10px'}} alt="logo"/>
                     {/* <img src={Logo} style={{width:'140px', objectFit:'contain'}} alt="logo"/> */}
                   </div>
