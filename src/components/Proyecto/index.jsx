@@ -48,8 +48,8 @@ function ElProyecto() {
     <div id="proyecto" className='section'>
         <Container>
             <Row className='mt-3'>
-                <Col sm="12" md="6" className='order-2 order-md-1' >
-                    <div>
+                <Col sm="12" md="6" className='order-2 order-md-1 pt-3 pt-md-0' >
+                    <div className='pt-4 pt-sm-0'>
                         <h2>EL PROYECTO</h2>
                         <div className='subraya bg-white'/>
                     </div>
