@@ -55,7 +55,7 @@ function ElProyecto() {
                     </div>
                     <p>
                         Parcelación Doña Dominga es un proyecto donde los sueños toman forma. <br/>
-                        Un lugar pensado para la familia que ofrece amplios espacios <br/>
+                        Un lugar pensado para la familia que ofrece amplios espacios
                         en torno a la naturaleza. 
                         Una propuesta estratégica para vivir de forma tranquila, 
                         pero siempre conectado con la ciudad.
