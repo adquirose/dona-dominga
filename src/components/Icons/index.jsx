@@ -10,6 +10,20 @@ import SquarePin from "./SquarePin";
 import Athletics from "./Athletics";
 import InstantCamera from "./InstantCamera";
 import LogoInstagram from "./LogoInstagram";
+import LogoInstagramBN from "./LogoInstagramBN";
+import LogoWhatsappBN from "./LogoWhatsappBN";
+import PhoneToolbar from "./PhoneToolbar";
 
-
-export { Hat3, Hospital32, ShoppingBag, Menu8, LogoWhatsapp, ERemove, Email, PhoneCall, SquarePin, Athletics, InstantCamera, LogoInstagram }
+export { 
+    Hat3, 
+    Hospital32, 
+    ShoppingBag, 
+    Menu8, 
+    LogoWhatsapp, 
+    ERemove, 
+    Email, 
+    PhoneCall, 
+    SquarePin, 
+    Athletics, 
+    InstantCamera, 
+    LogoInstagram, LogoInstagramBN, LogoWhatsappBN, PhoneToolbar }
