@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #534741;
+  --color-primary: #253732;
   --color-ws: #71a83c;
   --color-white:#FFFFFF;
   --color-black:#000000;
@@ -103,14 +103,14 @@ body {
   margin-left: 35px;
 }
 .button{
-  background-color: var(--color-danger) !important;
+  background-color: var(--color-white) !important;
   border-radius: 3px;
   border:0;
   padding-left: 1.25rem;
   padding-right: 1.25rem;
   padding-top: 0.35rem;
   padding-bottom: 0.35rem;
-  color:var(--color-white) !important;
+  color:var(--color-primary) !important;
   font-weight: 600;
   font-size: 12px;
 }
@@ -241,11 +241,16 @@ body {
   position:absolute;
   right:175px;
 }
+h1, h2, h3{
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 700;
+}
 p, span, li, a, input{
   font-family: "Roboto", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
+
 @media (max-width: 420px) {
   #proyecto-container .image-proyecto-container{
     position: relative;

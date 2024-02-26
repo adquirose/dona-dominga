@@ -9,11 +9,9 @@ function LasCasas() {
                     <div className='mb-5 ms-3'>
                         <h3>Agustin Rivas Vey</h3>
                         <h5>Arquitecto</h5>
-                        <div style={{ width:'120px', display:'flex', justifyContent:'space-between'}}>
+                        <div style={{ width:'80px', display:'flex', justifyContent:'space-between'}}>
                             <a href="https://www.instagram.com/Arv.arquitectura/"><LogoInstagramBN width="32px" height="32px"/></a>
                             <a href="https://api.whatsapp.com/send/?phone=56934178361"><LogoWhatsappBN width="32px" height="32px"/></a>
-                            <a href="tel:+56934178361"><PhoneToolbar width="32px" height="32px"/></a>
-                            
                         </div>
                     </div>
                 </Col>

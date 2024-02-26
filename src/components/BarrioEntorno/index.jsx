@@ -32,11 +32,11 @@ function BarrioEntorno() {
                 <SquarePin width="32" height="32" color="white" /><span className='ps-2'>UBICACIÓN</span>
               </div>
               <List>
-                <li>PUERTO VARAS A 9 MIN</li>
-                <li>PUERTO MONTT A 15 MIN</li>
-                <li>AEROPUERTO A 30 MIN</li>
-                <li>ENSENADA A 45 MIN</li>
-                <li>RUTA 5 A 8 MIN</li> 
+                <li>Puerto Varas a 9 min.</li>
+                <li>Puerto Montt a 15 min.</li>
+                <li>Aeropuerto a 30 min.</li>
+                <li>Ensenada a 45 min.</li>
+                <li>Ruta 5 a 8 min.</li> 
               </List>
             </div>
             <div>
@@ -44,10 +44,10 @@ function BarrioEntorno() {
                 <ShoppingBag/><span className='ps-2'>CENTROS COMERCIALES</span>
               </div>
               <List>
-                <li>MALL PASEO ALERCE</li>
-                <li>CENTRO COMERCIAL DOÑA EMA</li>
-                <li>SUPERMERCADO</li>
-                <li>STRIPCENTER</li>
+                <li>Mall Paseo Alerce</li>
+                <li>Centro Comercial Doña Ema</li>
+                <li>Supermercado</li>
+                <li>Stripcenter</li>
               </List>
             </div>
             <div>
@@ -55,9 +55,9 @@ function BarrioEntorno() {
                 <Athletics width="36" height="36" color="white"/><span className='ps-2'>CENTROS DEPORTIVOS</span>
               </div>
               <List>
-                <li>MATCH POINT TENIS</li>
-                <li>CLUB DE TENIS PUERTO VARAS</li>
-                <li>COMPLEJO DEPORTIVO MIRADOR</li>
+                <li>Match Point Tenis</li>
+                <li>Club de Tenis Puerto Varas</li>
+                <li>Complejo Deportivo Mirador</li>
               </List>
             </div>
           </Col>

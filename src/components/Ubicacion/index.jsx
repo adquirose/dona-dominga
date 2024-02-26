@@ -14,8 +14,8 @@ function Ubicacion() {
             <Row className='d-flex align-items-center flex-column'>
                 <img src={Mapa} style={{maxWidth:'740px', width:'100%', height:'auto'}} alt="img-mapa" />
                 <div className='d-flex justify-content-center'>
-                    <button onClick={handleOnClickGM} className='button my-4 me-1'>VER EN GOOGLEMAPS</button>
-                    <button onClick={handleOnClickWaze} className='button my-4 ms-1'>VER EN WAZE</button>
+                    <button onClick={handleOnClickGM} className='button my-4 me-1'>Ver en Googlemaps</button>
+                    <button onClick={handleOnClickWaze} className='button my-4 ms-1'>Ver en Waze</button>
                 </div>
             </Row>
         </Container>
