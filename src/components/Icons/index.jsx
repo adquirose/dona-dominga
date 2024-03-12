@@ -13,6 +13,7 @@ import LogoInstagram from "./LogoInstagram";
 import LogoInstagramBN from "./LogoInstagramBN";
 import LogoWhatsappBN from "./LogoWhatsappBN";
 import PhoneToolbar from "./PhoneToolbar";
+import DownArrow from "./DownArrow";
 
 export { 
     Hat3, 
@@ -26,4 +27,6 @@ export {
     SquarePin, 
     Athletics, 
     InstantCamera, 
-    LogoInstagram, LogoInstagramBN, LogoWhatsappBN, PhoneToolbar }
+    LogoInstagram, LogoInstagramBN, LogoWhatsappBN, PhoneToolbar,
+    DownArrow 
+}
