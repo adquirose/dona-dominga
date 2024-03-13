@@ -172,9 +172,15 @@ function Contacto() {
                   </div>
                   <div className="pt-4 ps-3">
                     <h3>Información de Ventas</h3>
-                    <div className="d-flex pb-3 pt-4"><PhoneCall/><a className="ps-3" href="tel:+56972142535">Nicole Westermayer</a></div>
-                    <div className="d-flex pb-3"><Email/> <a className="ps-3" href="mailto:ventas@parcelaciondonadominga.cl">ventas@parcelaciondonadominga.cl</a></div>
-                    <div className="d-flex pb-3" onClick={ handleOnClick }><LogoWhatsapp width={36} height={36}/><a className="ps-3" href="https://api.whatsapp.com/send/?phone=56972142535">+56 9 721 42535</a></div>
+                    <div className="d-flex pb-3 pt-4">
+                      <PhoneCall/><a className="ps-3" href="tel:+56972147172">Nicole Westermayer</a>
+                    </div>
+                    <div className="d-flex pb-3">
+                      <Email/> <a className="ps-3" href="mailto:ventas@parcelaciondonadominga.cl">ventas@parcelaciondonadominga.cl</a>
+                    </div>
+                    <div className="d-flex pb-3" onClick={ handleOnClick }>
+                      <LogoWhatsapp width={36} height={36}/><a className="ps-3" href="https://api.whatsapp.com/send/?phone=56972147172">+56 97214 7172</a>
+                    </div>
                   </div>
                 </Col>
                 <Col sm="12" md="6" className="pt-3 pt-md-0">

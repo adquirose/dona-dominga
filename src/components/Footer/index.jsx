@@ -9,9 +9,15 @@ function Footer() {
             <Row className='border'>
                 <Col>
                     <div style={{paddingLeft:'25px'}}>
+                        <h5>Fabián Tropa</h5>
                         <h5><a style={{color:'inherit', textDecoration:'none'}} href='mailto:info@parcelaciondonadominga.cl'>info@parcelaciondonadominga.cl</a></h5> 
-                        <h5><a style={{color:'inherit', textDecoration:'none'}} href='gerencia@parcelaciondonadominga.cl'>gerencia@parcelaciondonadominga.cl</a></h5>
                         <h5><a style={{color:'inherit', textDecoration:'none'}} href='tel:+56972142535'>+56 9 7214 2535</a></h5>
+                    </div>
+                </Col>
+                <Col>
+                    <div style={{paddingLeft:'25px'}}>
+                        <h5>Emilio Schenettler</h5> 
+                        <h5><a style={{color:'inherit', textDecoration:'none'}} href='gerencia@parcelaciondonadominga.cl'>gerencia@parcelaciondonadominga.cl</a></h5>
                         <h5><a style={{color:'inherit', textDecoration:'none'}} href='tel:+56968012940'>+56 9 6801 2940</a></h5>
                     </div>
                 </Col>

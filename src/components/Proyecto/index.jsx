@@ -27,16 +27,10 @@ function ElCondominio(){
                             luz y posibilidad de fibra óptica. <br/>
                             Además contamos con alianzas estratégicas que te ayudarán a realizar 
                             tus caminos de acceso, movimiento de tierras, limpieza de terreno,
-                            entrega de áridos, jardinería u cualquier otra tarea similar que
-                            llegarás a necesitar para la construcción de su casa. 
+                            entrega de áridos, jardinería u otra tarea similar que podrías necesitar 
+                            para la construcción de tu casa.
 
                         </p>
-                        <ul>
-                            <li>Acceso por calle privada con ingreso controlado 24/7.</li>
-                            <li>10 estacionamientos de visitas</li> 
-                            <li>Estacionamientos para bicicletas</li>
-                            <li>Amplias áreas verdes con proyecto de paisajismo.</li>
-                        </ul>
                     </Col>
                 </Row>
             </Container>
